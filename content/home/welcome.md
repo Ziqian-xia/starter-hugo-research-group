@@ -7,8 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Behavioural
-  Intervention Tools
+  Strategy Helper + 
+  Effect Predictor
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-**Behavioural Intervention Tool** is a wrapped package designed to help policy makers to do Nudges/Intervention efficiently.
+**Strategy Helper** and **Effect Predictor** are wrapped packages designed to help policy makers to do Nudges/Intervention efficiently.
